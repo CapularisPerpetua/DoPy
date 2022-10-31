@@ -11,4 +11,4 @@ track of things.
 
 Personally, I have some work tasks that need tracking, and require being shared
 at least once a week in an email. But I also want to track subtasks, I want to
-track home tasks. I want to track everything I feel is worth tracking.# DoPy
+track home tasks. I want to track everything I feel is worth tracking.
