@@ -1,9 +1,12 @@
-# DoPy
+================
+DoPy
+================
 DoPy (pronounced as 'dopey') is a Python3 based ToDo.txt maintainer.
 What DoPy adds is the ability for the user to extend both the todo metadata,
 as well as output formats desired (for export or sharing).
 
-## Why DoPy?
+Why DoPy?
+================
 In trying to keep track of tasks, there's a lot of workflows. While the
 'Getting Things Done' method by David Allen is a very popular method, there
 are plenty of less obvious, and sometimes, more streamlined methods for keeping 
